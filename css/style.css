@@ -1,0 +1,84 @@
+#cabecera{
+    text-align: center;
+    width: 80%;
+}
+
+#nav{
+    margin-left: 100px;
+    align-content: center;
+    width: 90%;
+    border-radius: 15px;
+    background-color: midnightblue;
+    box-shadow: 10px 10px 5px 0px black;
+}
+
+#menu{
+    margin-left: 620px;
+}
+
+#menu li{
+    list-style: none;
+    float: left;
+    padding: 15px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: azure;
+}
+
+#seccion1,
+#seccion2,
+#seccion3,
+#seccion4{
+    clear: both;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 25px;
+}
+
+#imagen1{
+    float: left;
+}
+
+#titulo1,
+#titulo2,
+#titulo3,
+#titulo4,
+#titulo5{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#tabla{
+    width: 50%;
+    margin-left: 720px;
+    padding: 10px;
+}
+
+#tabla1 th,
+#tabla1 td{
+    background-color: midnightblue;
+    color: azure;
+    text-align: center;
+    padding: 10px;
+}
+
+#imagen1{
+    display: inline-flex;
+}
+
+#enlace a{
+    text-decoration: none;
+}
+
+#servicios{
+    margin-left: 780px;
+}
+
+#direcciones{
+    margin-left: 600px;
+}
+
+#formulario{
+    margin-left: 600px;
+}
